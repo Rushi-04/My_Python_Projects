@@ -1,3 +1,4 @@
+
 print("Welcome to the Tip Calculator")
 
 amount = float(input("What was the total bill? Rs "))
@@ -11,5 +12,3 @@ tip = (per/100)*amount
 final_amount = tip + amount 
 
 print(f"Each person should pay:{round(final_amount,2)} Rs")
-
-print(round(2354.523,2))

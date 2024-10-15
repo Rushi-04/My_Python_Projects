@@ -6,6 +6,7 @@ name2 = input("Enter your second name: ")
 lower_case1 = name1.lower()
 lower_case2 = name2.lower()
 
+    
 t1 = lower_case1.count("t")
 r1 = lower_case1.count("r")
 u1 = lower_case1.count("u")

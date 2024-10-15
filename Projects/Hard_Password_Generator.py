@@ -29,5 +29,5 @@ random.shuffle(passwordlst)
 password = ""                      #printing list
 for char in passwordlst:
     password += char
-    
+
 print("Here's your password:- ",password)
